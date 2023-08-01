@@ -1,3 +1,18 @@
+# Running the application
+Use the following command to run the app:
+```sh
+yarn run dev
+```
+You might have to install necessary dependencies. To install Yarn, run the following command:
+```sh
+npm install --global yarn
+```
+To install styled-components, run the following command:
+```sh
+yarn add styled-components
+```
+
+
 # Turborepo starter
 
 This is an official starter Turborepo.
